@@ -48,7 +48,7 @@ au BufNewFile,BufRead *.py
 
 Plugin 'vim-scripts/indentpython.vim'
 
-au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
+"au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
 
 set encoding=utf-8
 
