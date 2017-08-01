@@ -9,5 +9,5 @@ enabled=1
 autorefresh=1
 type=rpm-md
 EOF
-sudo yum install elasticsearch
+sudo yum install -y elasticsearch
 
